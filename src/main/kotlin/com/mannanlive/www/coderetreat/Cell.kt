@@ -1,3 +1,3 @@
 package com.mannanlive.www.coderetreat
 
-class KotlinSample
+data class Cell(val state: CellState)
